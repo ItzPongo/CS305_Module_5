@@ -14,7 +14,7 @@ What you will need for this project include:
 Once finished with the code, compile the files in your command prompt and then run the main driver file.
 
 ## Contributing
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to get involved.
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) for current contributors.
 
 ## Authors
 * **Sean Weston** - [ItzPongo](https://github.com/ItzPongo)
